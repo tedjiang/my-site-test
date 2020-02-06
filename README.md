@@ -1,2 +1,2 @@
 # my-site-test
-Testing a webpage with GitHub gh-pagest
+Testing a webpage with GitHub gh-pages
